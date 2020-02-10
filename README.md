@@ -1,2 +1,0 @@
-# clearview
-Created with CodeSandbox
